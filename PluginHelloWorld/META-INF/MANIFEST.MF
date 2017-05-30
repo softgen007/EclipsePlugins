@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: PluginHelloWorld
+Bundle-SymbolicName: com.plugin.helloworld;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.ui;bundle-version="3.108.0"
+Export-Package: com.plugin.helloworld
+Bundle-ClassPath: bin/,
+ .
